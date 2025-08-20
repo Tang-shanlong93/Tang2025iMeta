@@ -1,0 +1,192 @@
+"Table for differential expressed proteins. The raw data of proteomics reported in this figure part have been deposited in the OMIX, China National Center for Bioinformation (OMIX010468, https://ngdc.cncb.ac.cn/omix/release/OMIX010468)."						
+The analysis and visualization of proteomics data were performed on the PTM BioCloud platform (http://www.ptmbiolab.com).						
+No.	Protein accession	Protein description	Gene name	MW [kDa]	XOS500/CON Ratio	"XOS500/CON 
+p value"
+1	A0A287A0F9	KIAA0513 OS=Sus scrofa OX=9823 GN=KIAA0513 PE=1 SV=1	KIAA0513	46.5	0.825	0.0002
+2	A0A5G2R4Z0	ADP ribosylation factor like GTPase 1 OS=Sus scrofa OX=9823 GN=ARL1 PE=1 SV=1	ARL1	23.4	0.804	0.0014
+3	A0A287B9S4	"PYM homolog 1, exon junction complex associated factor OS=Sus scrofa OX=9823 GN=PYM1 PE=1 SV=2"	PYM1	29.0	1.569	0.0017
+4	I3LNC8	Claudin OS=Sus scrofa OX=9823 GN=CLDN7 PE=1 SV=1	CLDN7	15.2	0.634	0.0019
+5	A0A5G2QQG0	Crystallin zeta like 1 OS=Sus scrofa OX=9823 GN=CRYZL1 PE=1 SV=1	CRYZL1	36.6	1.213	0.0039
+6	A5GFQ5	Protein canopy homolog 3 OS=Sus scrofa OX=9823 GN=CNPY3 PE=3 SV=1	CNPY3	31.7	1.262	0.0039
+7	I3LD12	RBR-type E3 ubiquitin transferase OS=Sus scrofa OX=9823 GN=ARIH1 PE=3 SV=3	ARIH1	59.5	1.241	0.0042
+8	A0A480UNP1	Acyl-CoA binding domain containing 6 OS=Sus scrofa OX=9823 GN=ACBD6 PE=1 SV=1	ACBD6	31.0	1.481	0.0043
+9	A0A286ZNZ0	Syntrophin beta 1 OS=Sus scrofa OX=9823 GN=SNTB1 PE=4 SV=1	SNTB1	38.4	1.327	0.0047
+10	A0A287AFT2	L-Fucosyltransferase OS=Sus scrofa OX=9823 GN=FUT2A PE=3 SV=1	FUT2A	45.6	0.303	0.0048
+11	A0A5G2R6S0	Rac family small GTPase 2 OS=Sus scrofa OX=9823 GN=RAC2 PE=1 SV=1	RAC2	21.4	0.818	0.0049
+12	I3LQS2	"5', 3'-nucleotidase, cytosolic OS=Sus scrofa OX=9823 GN=NT5C PE=1 SV=1"	NT5C	29.1	1.285	0.0052
+13	I3LS74	Antileukoproteinase OS=Sus scrofa OX=9823 GN=LOC100512873 PE=1 SV=1	LOC100512873	16.5	1.993	0.0056
+14	F1RFG5	Exportin-6 OS=Sus scrofa OX=9823 GN=XPO6 PE=4 SV=2	XPO6	128.8	1.621	0.0058
+15	A0A287BB16	MAP kinase activating death domain OS=Sus scrofa OX=9823 GN=MADD PE=1 SV=2	MADD	178.4	1.246	0.0059
+16	A0A286ZR09	Anillin actin binding protein OS=Sus scrofa OX=9823 GN=ANLN PE=1 SV=1	ANLN	114.9	2.888	0.0068
+17	Q29042	Ficolin-1 OS=Sus scrofa OX=9823 GN=FCN1 PE=1 SV=1	FCN1	35.2	0.089	0.0071
+18	A0A5G2RD43	Amine oxidase OS=Sus scrofa OX=9823 GN=LOC110256000 PE=3 SV=1	LOC110256000	81.6	1.601	0.0074
+19	A0A5G2QRX3	Epidermal growth factor receptor pathway substrate 15 OS=Sus scrofa OX=9823 GN=EPS15 PE=1 SV=1	EPS15	95.9	1.263	0.0087
+20	A0A287B209	Runt-related transcription factor OS=Sus scrofa OX=9823 GN=RUNX3 PE=4 SV=1	RUNX3	44.7	0.811	0.0092
+21	A0A286ZIC8	Interferon stimulated exonuclease gene 20 OS=Sus scrofa OX=9823 GN=ISG20 PE=4 SV=1	ISG20	20.9	0.661	0.0099
+22	A0A5S6GYA9	Serine/threonine-protein kinase A-Raf OS=Sus scrofa OX=9823 GN=ARAF PE=4 SV=1	ARAF	67.5	0.792	0.0100
+23	F1ST67	Exosome complex component RRP40 isoform 1 OS=Sus scrofa OX=9823 GN=EXOSC3 PE=4 SV=1	EXOSC3	29.6	0.638	0.0103
+24	F1RKW3	E3 ubiquitin-protein ligase RNF135 isoform 1 OS=Sus scrofa OX=9823 GN=RNF135 PE=4 SV=1	RNF135	46.7	1.891	0.0116
+25	P27594	Interferon-induced GTP-binding protein Mx1 OS=Sus scrofa OX=9823 GN=MX1 PE=2 SV=1	MX1	75.5	1.372	0.0119
+26	F1RLG4	Signal recognition particle 19 OS=Sus scrofa OX=9823 GN=SRP19 PE=1 SV=1	SRP19	16.1	1.529	0.0125
+27	I3LQI7	"Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase OS=Sus scrofa OX=9823 GN=ALG3 PE=4 SV=3"	ALG3	49.9	0.784	0.0125
+28	K7GKN2	Interferon-induced GTP-binding protein Mx1 OS=Sus scrofa OX=9823 GN=MX1 PE=1 SV=3	MX1	74.0	1.420	0.0146
+29	A0A287BAJ4	Zinc finger protein 207 OS=Sus scrofa OX=9823 GN=ZNF207 PE=1 SV=2	ZNF207	49.6	1.285	0.0152
+30	I3LG19	Charged multivesicular body protein 4C OS=Sus scrofa OX=9823 GN=CHMP4C PE=4 SV=2	CHMP4C	26.7	0.713	0.0158
+31	F1RHG1	Clustered mitochondria protein homolog OS=Sus scrofa OX=9823 GN=CLUH PE=1 SV=3	CLUH	146.9	1.420	0.0167
+32	A0A5G2QW78	Protocadherin-11 X-linked OS=Sus scrofa OX=9823 GN=PCDH11X PE=4 SV=1	PCDH11X	148.0	0.737	0.0170
+33	A0A287AUQ4	Hook microtubule tethering protein 3 OS=Sus scrofa OX=9823 GN=HOOK3 PE=1 SV=2	HOOK3	91.0	1.344	0.0171
+34	A0A286ZJR2	"Peptidyl-tRNA hydrolase ICT1, mitochondrial OS=Sus scrofa OX=9823 GN=MRPL58 PE=1 SV=1"	MRPL58	23.5	0.749	0.0171
+35	A0A286ZZB7	Histone cluster 1 H1 family member e OS=Sus scrofa OX=9823 GN=HIST1H1E PE=3 SV=2	HIST1H1E	21.0	0.458	0.0174
+36	F1SV18	KDEL motif-containing protein 2 OS=Sus scrofa OX=9823 GN=POGLUT3 PE=1 SV=3	POGLUT3	58.7	1.236	0.0183
+37	F1SED8	Solute carrier family 4 member 1 adaptor protein OS=Sus scrofa OX=9823 GN=SLC4A1AP PE=1 SV=3	SLC4A1AP	82.0	1.278	0.0189
+38	A0A5G2R7Z6	Uncharacterized protein OS=Sus scrofa OX=9823 GN=C1H9orf16 PE=4 SV=1	C1H9orf16	9.0	1.310	0.0192
+39	A0A287BMH8	Ribonucloprotein OS=Sus scrofa OX=9823 GN=NHP2 PE=1 SV=1	NHP2	20.1	1.281	0.0194
+40	A0A287ABA9	TRPM8 channel-associated factor 2 isoform X1 OS=Sus scrofa OX=9823 GN=LOC110257570 PE=4 SV=1	LOC110257570	99.6	1.220	0.0194
+41	F1SCF0	Alpha-1-antitrypsin OS=Sus scrofa OX=9823 GN=SERPINA1 PE=3 SV=2	SERPINA1	46.9	1.533	0.0203
+42	F1SL82	Myosin IA OS=Sus scrofa OX=9823 GN=MYO1A PE=3 SV=4	MYO1A	113.1	0.657	0.0218
+43	A0A480YVQ6	RUNX family transcription factor 2 OS=Sus scrofa OX=9823 GN=RUNX2 PE=4 SV=1	RUNX2	68.5	1.399	0.0224
+44	K7GNY9	Prefoldin subunit 3 OS=Sus scrofa OX=9823 GN=VBP1 PE=1 SV=2	VBP1	26.5	1.366	0.0238
+45	A0A287BLV6	Bactericidal permeability increasing protein OS=Sus scrofa OX=9823 GN=BPI PE=4 SV=2	BPI	53.6	1.578	0.0239
+46	A0A5G2RF48	Transmembrane protein 129 OS=Sus scrofa OX=9823 GN=TMEM129 PE=4 SV=1	TMEM129	30.1	1.536	0.0242
+47	A0A287BG09	Threonine synthase like 1 OS=Sus scrofa OX=9823 GN=THNSL1 PE=1 SV=1	THNSL1	85.1	0.791	0.0256
+48	A0A287AGS1	Store-operated calcium entry associated regulatory factor OS=Sus scrofa OX=9823 GN=SARAF PE=1 SV=1	SARAF	36.8	0.817	0.0268
+49	A0A288CFY3	Tropomyosin alpha-3 chain OS=Sus scrofa OX=9823 GN=TPM3 PE=1 SV=2	TPM3	26.4	1.491	0.0276
+50	F1SRB9	ST13 Hsp70 interacting protein OS=Sus scrofa OX=9823 GN=ST13 PE=1 SV=2	ST13	41.9	1.350	0.0294
+51	F1SAE6	Patatin like phospholipase domain containing 8 OS=Sus scrofa OX=9823 GN=PNPLA8 PE=4 SV=4	PNPLA8	77.0	1.227	0.0296
+52	A0A480NCF5	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase OS=Sus scrofa OX=9823 GN=PLCB1 PE=1 SV=1"	PLCB1	133.5	2.070	0.0304
+53	A0A5K1VV69	Reticulon 4 interacting protein 1 OS=Sus scrofa OX=9823 GN=RTN4IP1 PE=1 SV=1	RTN4IP1	43.9	0.793	0.0304
+54	F1SC47	Delta-1-pyrroline-5-carboxylate synthase OS=Sus scrofa OX=9823 GN=ALDH18A1 PE=1 SV=1	ALDH18A1	87.0	0.771	0.0308
+55	A0A5G2RD78	Ubiquitin like modifier activating enzyme 3 OS=Sus scrofa OX=9823 GN=UBA3 PE=1 SV=1	UBA3	57.3	1.276	0.0319
+56	A0A5G2R8N0	Elongator acetyltransferase complex subunit 6 OS=Sus scrofa OX=9823 GN=ELP6 PE=4 SV=1	ELP6	36.7	1.360	0.0323
+57	A0A5S6HGR0	Tropomyosin alpha-4 chain OS=Sus scrofa OX=9823 GN=TPM4 PE=1 SV=1	TPM4	32.7	1.829	0.0330
+58	I3L770	E3 ubiquitin-protein ligase HUWE1 isoform X9 OS=Sus scrofa OX=9823 GN=HUWE1 PE=1 SV=2	HUWE1	482.3	1.211	0.0348
+59	I3LA89	Acyl-CoA thioesterase 8 OS=Sus scrofa OX=9823 GN=ACOT8 PE=1 SV=2	ACOT8	35.8	0.603	0.0353
+60	A0A287BA70	Protein phosphatase 1 regulatory subunit 21 OS=Sus scrofa OX=9823 GN=PPP1R21 PE=1 SV=1	PPP1R21	83.0	0.787	0.0359
+61	A0A5G2QD95	Exosome component 10 OS=Sus scrofa OX=9823 GN=EXOSC10 PE=4 SV=1	EXOSC10	96.6	1.687	0.0375
+62	F1S1X2	Mitochondrial methionyl-tRNA formyltransferase OS=Sus scrofa OX=9823 GN=MTFMT PE=4 SV=3	MTFMT	43.6	0.677	0.0379
+63	A0A286ZS01	"NSE1 homolog, SMC5-SMC6 complex component OS=Sus scrofa OX=9823 GN=NSMCE1 PE=4 SV=1"	NSMCE1	30.6	1.392	0.0385
+64	F1SBT3	AlkB homolog 7 OS=Sus scrofa OX=9823 GN=ALKBH7 PE=4 SV=2	ALKBH7	26.8	0.810	0.0386
+65	A0A5G2RB10	Solute carrier family 27 member 4 OS=Sus scrofa OX=9823 GN=SLC27A4 PE=1 SV=1	SLC27A4	75.2	0.509	0.0387
+66	A0A2C9F345	U1 small nuclear ribonucleoprotein A OS=Sus scrofa OX=9823 GN=SNRPA PE=4 SV=1	SNRPA	31.2	0.711	0.0389
+67	F1S451	Lactate dehydrogenase D OS=Sus scrofa OX=9823 GN=LDHD PE=1 SV=3	LDHD	52.0	0.720	0.0398
+68	A0A5G2QSC5	5'-3' exoribonuclease 1 OS=Sus scrofa OX=9823 GN=XRN1 PE=3 SV=1	XRN1	193.2	1.218	0.0407
+69	A0A287BBF7	E3 ubiquitin-protein ligase OS=Sus scrofa OX=9823 GN=WWP2 PE=1 SV=1	WWP2	89.2	0.771	0.0411
+70	A0A287BLS6	Tudor domain-containing protein OS=Sus scrofa OX=9823 GN=AKAP1 PE=4 SV=2	AKAP1	92.6	0.826	0.0417
+71	A0A287BLE1	Sequestosome 1 OS=Sus scrofa OX=9823 GN=SQSTM1 PE=4 SV=2	SQSTM1	48.9	1.258	0.0431
+72	K7GPD4	Integrin beta OS=Sus scrofa OX=9823 GN=ITGB4 PE=1 SV=3	ITGB4	200.5	0.807	0.0437
+73	P15468	Ribonuclease 4 OS=Sus scrofa OX=9823 GN=RNASE4 PE=1 SV=3	RNASE4	16.9	1.931	0.0438
+74	A0A287AFS7	Uncharacterized protein OS=Sus scrofa OX=9823 GN=LOC102160380 PE=4 SV=1	LOC102160380	53.6	1.397	0.0451
+75	A0A287BEQ9	Catenin delta 1 OS=Sus scrofa OX=9823 GN=CTNND1 PE=1 SV=2	CTNND1	101.1	0.726	0.0459
+76	A0A5G2QR13	PDGFA associated protein 1 OS=Sus scrofa OX=9823 GN=PDAP1 PE=1 SV=1	PDAP1	20.3	1.331	0.0460
+77	F1RRE9	Ring finger protein 150 OS=Sus scrofa OX=9823 GN=RNF150 PE=4 SV=4	RNF150	48.1	1.274	0.0468
+78	F2Z5E7	Family with sequence similarity 49 member A OS=Sus scrofa OX=9823 GN=FAM49A PE=1 SV=1	FAM49A	37.3	1.243	0.0481
+79	A0A287AWH8	Coatomer subunit zeta OS=Sus scrofa OX=9823 GN=COPZ1 PE=1 SV=2	COPZ1	23.4	0.695	0.0490
+80	A0A287A9X1	"Isocitrate dehydrogenase [NAD] subunit, mitochondrial OS=Sus scrofa OX=9823 GN=IDH3G PE=3 SV=2"	IDH3G	41.5	0.527	0.0491
+81	A0A5G2QZL2	"RAP1B, member of RAS oncogene family OS=Sus scrofa OX=9823 GN=RAP1B PE=1 SV=1"	RAP1B	16.0	0.806	0.0491
+82	A0A5G2R318	Histone H2A OS=Sus scrofa OX=9823 GN=H2AFV PE=3 SV=1	H2AFV	13.5	0.715	0.0491
+83	F1SEV8	Eukaryotic translation elongation factor 1 delta OS=Sus scrofa OX=9823 GN=EEF1D PE=1 SV=4	EEF1D	59.5	1.234	0.0498
+84	A0A5G2QWF5	Uncharacterized protein OS=Sus scrofa OX=9823 GN=C2 PE=1 SV=1	C2	69.3	1.732	0.0499
+85	A0A5G2R8A6	Serine/threonine-protein phosphatase OS=Sus scrofa OX=9823 GN=PPP3CB PE=1 SV=1	PPP3CB	57.2	1.273	0.0510
+86	F1S3Q9	CN hydrolase domain-containing protein OS=Sus scrofa OX=9823 GN=VNN2 PE=4 SV=3	VNN2	33.5	0.618	0.0519
+87	F1S3J7	"Papilin, proteoglycan like sulfated glycoprotein OS=Sus scrofa OX=9823 GN=PAPLN PE=1 SV=3"	PAPLN	103.3	1.240	0.0519
+88	F1SBU7	"Lon protease homolog, mitochondrial OS=Sus scrofa OX=9823 GN=LONP1 PE=1 SV=2"	LONP1	103.5	0.803	0.0520
+89	F1RVN1	"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial OS=Sus scrofa OX=9823 GN=NDUFV1 PE=1 SV=1"	NDUFV1	50.5	0.766	0.0532
+90	A0A5G2QLJ4	USH1 protein network component harmonin OS=Sus scrofa OX=9823 GN=USH1C PE=1 SV=1	USH1C	59.9	0.544	0.0552
+91	A0A5G2REY8	Ubiquinol-cytochrome c reductase core protein 2 OS=Sus scrofa OX=9823 GN=UQCRC2 PE=1 SV=1	UQCRC2	47.3	0.778	0.0559
+92	F1RZT2	Prefoldin subunit 6 OS=Sus scrofa OX=9823 GN=PFDN6 PE=4 SV=1	PFDN6	14.6	1.550	0.0560
+93	Q8MJ76	Alpha-fetoprotein OS=Sus scrofa OX=9823 GN=AFP PE=2 SV=1	AFP	68.6	1.393	0.0565
+94	A0A5G2R0Z8	Hydroxysteroid dehydrogenase like 2 OS=Sus scrofa OX=9823 GN=HSDL2 PE=1 SV=1	HSDL2	45.3	0.706	0.0570
+95	I3LI68	"Sucrase-isomaltase, intestinal OS=Sus scrofa OX=9823 GN=SI PE=1 SV=2"	SI	178.4	1.240	0.0575
+96	F1S8N5	Huntingtin OS=Sus scrofa OX=9823 GN=HTT PE=1 SV=3	HTT	344.5	1.296	0.0582
+97	A0A287AVF3	Enolase 2 OS=Sus scrofa OX=9823 GN=ENO2 PE=1 SV=2	ENO2	44.7	1.517	0.0591
+98	A0A287A6Y3	Glia maturation factor OS=Sus scrofa OX=9823 GN=GMFB PE=1 SV=1	GMFB	15.8	1.206	0.0598
+99	A0A5G2QCX4	"Protein phosphatase, Mg2+/Mn2+ dependent 1G OS=Sus scrofa OX=9823 GN=PPM1G PE=1 SV=1"	PPM1G	52.6	1.347	0.0604
+100	F1RX45	Disco interacting protein 2 homolog C OS=Sus scrofa OX=9823 GN=DIP2C PE=1 SV=4	DIP2C	177.7	1.639	0.0605
+101	A0A287ASL4	Tetratricopeptide repeat domain 4 OS=Sus scrofa OX=9823 GN=TTC4 PE=4 SV=2	TTC4	49.1	1.200	0.0606
+102	A0A286ZL27	Sodium/glucose cotransporter 5 OS=Sus scrofa OX=9823 GN=SLC5A10 PE=1 SV=1	SLC5A10	31.2	1.533	0.0610
+103	A0A287BIP4	Coagulation factor XII OS=Sus scrofa OX=9823 GN=F12 PE=3 SV=1	F12	71.2	1.227	0.0617
+104	F1SJ90	Pseudopodium enriched atypical kinase 1 OS=Sus scrofa OX=9823 GN=PEAK1 PE=4 SV=2	PEAK1	192.9	0.687	0.0623
+105	A0A287BB19	RAN binding protein 3 OS=Sus scrofa OX=9823 GN=RANBP3 PE=1 SV=1	RANBP3	62.5	1.305	0.0625
+106	F1SGX4	Carbonyl reductase NADPH 3 OS=Sus scrofa OX=9823 GN=CBR3 PE=1 SV=1	CBR3	30.6	1.315	0.0630
+107	F1RIU1	Phosphoserine phosphatase OS=Sus scrofa OX=9823 GN=PSPH PE=1 SV=1	PSPH	25.0	1.267	0.0640
+108	A0A287AIG3	"Beta-1,4-galactosyltransferase 1 OS=Sus scrofa OX=9823 GN=B4GALT1 PE=1 SV=1"	B4GALT1	40.3	0.649	0.0645
+109	A0A5G2RNL5	Stonin-2 OS=Sus scrofa OX=9823 GN=STON2 PE=3 SV=1	STON2	100.0	0.641	0.0648
+110	P79381	Epoxide hydrolase 1 OS=Sus scrofa OX=9823 GN=EPHX1 PE=2 SV=1	EPHX1	52.4	0.734	0.0653
+111	A0A287AFU9	Protegrin-4 OS=Sus scrofa OX=9823 GN=NPG4 PE=3 SV=1	NPG4	29.3	1.865	0.0658
+112	A0A5G2QK91	ATP synthase subunit OS=Sus scrofa OX=9823 GN=ATP5MG PE=1 SV=1	ATP5MG	10.8	0.571	0.0659
+113	F1RGN6	F-box protein 39 OS=Sus scrofa OX=9823 GN=FBXO39 PE=4 SV=3	FBXO39	31.6	0.654	0.0662
+114	I3L8K1	Sortilin related receptor 1 OS=Sus scrofa OX=9823 GN=SORL1 PE=4 SV=2	SORL1	236.7	0.783	0.0671
+115	F1RF77	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 OS=Sus scrofa OX=9823 GN=PLOD1 PE=4 SV=4"	PLOD1	83.2	0.806	0.0679
+116	F1S8U0	Deleted in primary ciliary dyskinesia homolog (mouse) OS=Sus scrofa OX=9823 GN=DPCD PE=4 SV=1	DPCD	23.2	1.302	0.0689
+117	A0A287BF04	2-oxoglutarate and iron dependent oxygenase domain containing 2 OS=Sus scrofa OX=9823 GN=OGFOD2 PE=4 SV=2	OGFOD2	32.3	1.844	0.0697
+118	A0A286ZY89	Phospholipid-transporting ATPase OS=Sus scrofa OX=9823 GN=ATP10B PE=3 SV=2	ATP10B	156.9	0.563	0.0704
+119	F1RSP8	Leucine rich repeat containing 14 OS=Sus scrofa OX=9823 GN=LRRC14 PE=4 SV=2	LRRC14	49.2	0.644	0.0706
+120	F1SRC8	C-type lectin domain family 3 member B OS=Sus scrofa OX=9823 GN=CLEC3B PE=1 SV=1	CLEC3B	22.2	1.435	0.0706
+121	A0A5G2R631	Programmed cell death 5 OS=Sus scrofa OX=9823 GN=PDCD5 PE=1 SV=1	PDCD5	14.4	1.530	0.0712
+122	F1SIS9	"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial OS=Sus scrofa OX=9823 GN=NDUFA10 PE=1 SV=1"	NDUFA10	40.4	0.756	0.0718
+123	A0A5G2R2Q4	AIRC domain-containing protein OS=Sus scrofa OX=9823 GN=PAICS PE=1 SV=1	PAICS	47.0	1.255	0.0722
+124	A0A5G2QS08	Uncharacterized protein OS=Sus scrofa OX=9823 GN=ARF5 PE=1 SV=1	ARF5	23.5	0.787	0.0722
+125	A0A286ZRE1	Tropomyosin alpha-1 chain OS=Sus scrofa OX=9823 GN=TPM1 PE=1 SV=2	TPM1	39.2	1.450	0.0722
+126	A0A287AQB8	Microsomal glutathione S-transferase 2 OS=Sus scrofa OX=9823 GN=MGST2 PE=1 SV=1	MGST2	17.0	0.697	0.0724
+127	A0A287AHT1	Protein-serine/threonine kinase OS=Sus scrofa OX=9823 GN=PDK3 PE=1 SV=1	PDK3	47.9	0.635	0.0733
+128	A0A286ZJ89	tRNA_edit domain-containing protein OS=Sus scrofa OX=9823 GN=LOC100514282 PE=1 SV=2	LOC100514282	28.7	1.208	0.0736
+129	F1SHF6	HECT domain E3 ubiquitin protein ligase 1 OS=Sus scrofa OX=9823 GN=HECTD1 PE=1 SV=3	HECTD1	236.0	1.242	0.0738
+130	A0A5G2QUZ8	ATP binding cassette subfamily B member 7 OS=Sus scrofa OX=9823 GN=ABCB7 PE=1 SV=1	ABCB7	76.4	0.805	0.0744
+131	P16225	Sodium/potassium ATPase inhibitor SPAI-2 OS=Sus scrofa OX=9823 PE=1 SV=2	--	20.5	3.702	0.0744
+132	F1SU59	Annexin OS=Sus scrofa OX=9823 GN=ANXA7 PE=1 SV=4	ANXA7	49.8	0.809	0.0748
+133	A5A8V7	Heat shock 70 kDa protein 1-like OS=Sus scrofa OX=9823 GN=HSPA1L PE=2 SV=1	HSPA1L	70.3	0.786	0.0748
+134	A0A286ZUW2	"N(alpha)-acetyltransferase 25, NatB auxiliary subunit OS=Sus scrofa OX=9823 GN=NAA25 PE=1 SV=1"	NAA25	108.7	1.448	0.0755
+135	A0A5G2QT20	Tnp_22_dsRBD domain-containing protein OS=Sus scrofa OX=9823 PE=4 SV=1	--	51.9	0.792	0.0756
+136	F1S1A8	"NADH dehydrogenase ubiquinone iron-sulfur protein 2, mitochondrial isoform 1 OS=Sus scrofa OX=9823 GN=NDUFS2 PE=1 SV=2"	NDUFS2	53.6	0.803	0.0756
+137	I3L9K5	Nuclear casein kinase and cyclin dependent kinase substrate 1 OS=Sus scrofa OX=9823 GN=NUCKS1 PE=1 SV=3	NUCKS1	21.4	1.256	0.0764
+138	A0A5G2R872	Glycoprotein A33 OS=Sus scrofa OX=9823 GN=GPA33 PE=1 SV=1	GPA33	32.4	0.819	0.0766
+139	A0A5G2R5E9	Azurocidin OS=Sus scrofa OX=9823 GN=AZU1 PE=1 SV=1	AZU1	22.2	1.474	0.0767
+140	I3LAD5	Signal transducing adaptor molecule OS=Sus scrofa OX=9823 GN=STAM PE=1 SV=3	STAM	55.7	1.234	0.0779
+141	A0A480KM09	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6 OS=Sus scrofa OX=9823 GN=NDUFB6 PE=1 SV=1	NDUFB6	21.9	0.560	0.0782
+142	F1SDY8	Zinc finger CCCH-type containing 14 OS=Sus scrofa OX=9823 GN=ZC3H14 PE=4 SV=4	ZC3H14	68.2	0.780	0.0793
+143	F1RZN7	Uncharacterized protein OS=Sus scrofa OX=9823 GN=KLKB1 PE=1 SV=3	KLKB1	72.1	1.337	0.0800
+144	I3LLM7	Uncharacterized protein OS=Sus scrofa OX=9823 GN=HIRIP3 PE=4 SV=2	HIRIP3	30.0	2.435	0.0803
+145	F1SA17	ECSIT signalling integrator OS=Sus scrofa OX=9823 GN=ECSIT PE=1 SV=3	ECSIT	52.1	0.798	0.0805
+146	F1RI46	Family with sequence similarity 98 member C OS=Sus scrofa OX=9823 GN=FAM98C PE=4 SV=1	FAM98C	39.0	0.830	0.0806
+147	F1SCC9	SERPIN domain-containing protein OS=Sus scrofa OX=9823 GN=LOC106504545 PE=1 SV=2	LOC106504545	46.4	2.043	0.0807
+148	A0A287AIT7	DNA (cytosine-5)-methyltransferase OS=Sus scrofa OX=9823 GN=DNMT1 PE=3 SV=1	DNMT1	175.2	1.747	0.0807
+149	F1SHI1	Exostosin glycosyltransferase 2 OS=Sus scrofa OX=9823 GN=EXT2 PE=3 SV=3	EXT2	78.7	1.200	0.0814
+150	P49930	Antibacterial peptide PMAP-23 OS=Sus scrofa OX=9823 GN=PMAP23 PE=2 SV=1	PMAP23	17.5	1.294	0.0819
+151	A0A5G2Q7D7	"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial OS=Sus scrofa OX=9823 GN=SDHA PE=1 SV=1"	SDHA	71.1	0.779	0.0825
+152	A0A287ADD0	Serine/arginine repetitive matrix 2 OS=Sus scrofa OX=9823 GN=SRRM2 PE=1 SV=1	SRRM2	272.4	0.767	0.0831
+153	Q6UGB2	Methylsterol monooxygenase 1 OS=Sus scrofa OX=9823 GN=MSMO1 PE=2 SV=1	MSMO1	35.1	0.664	0.0838
+154	A0A286ZU45	"Mannose-6-phosphate receptor, cation dependent OS=Sus scrofa OX=9823 GN=M6PR PE=1 SV=1"	M6PR	21.4	1.341	0.0851
+155	F1RT10	CDKN2A interacting protein OS=Sus scrofa OX=9823 GN=CDKN2AIP PE=1 SV=3	CDKN2AIP	61.5	0.827	0.0857
+156	Q8MI68	"Methylmalonyl-CoA mutase, mitochondrial OS=Sus scrofa OX=9823 GN=MMUT PE=2 SV=2"	MMUT	83.3	0.691	0.0862
+157	A0A287A3Y1	GPALPP motifs-containing protein 1 isoform a OS=Sus scrofa OX=9823 GN=GPALPP1 PE=1 SV=1	GPALPP1	39.1	1.216	0.0863
+158	A0A286ZWY2	Chromosome 19 open reading frame 54 OS=Sus scrofa OX=9823 GN=C19orf54 PE=4 SV=1	C19orf54	39.2	1.429	0.0865
+159	A0A287AFK1	Calcium homeostasis modulator family member 6 OS=Sus scrofa OX=9823 GN=CALHM6 PE=4 SV=1	CALHM6	34.6	1.953	0.0868
+160	F1SBH4	DNA-directed RNA polymerase III subunit RPC6 OS=Sus scrofa OX=9823 GN=POLR3F PE=3 SV=1	POLR3F	35.6	1.585	0.0882
+161	K7GRA7	3'-phosphoadenosine 5'-phosphosulfate synthase 2 OS=Sus scrofa OX=9823 GN=PAPSS2 PE=1 SV=2	PAPSS2	68.6	1.484	0.0883
+162	F2Z5V7	Mitochondrial import inner membrane translocase subunit Tim8 B OS=Sus scrofa OX=9823 GN=TIMM8B PE=1 SV=2	TIMM8B	12.7	1.297	0.0886
+163	A0A5G2R3J9	Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Sus scrofa OX=9823 GN=PIK3C3 PE=3 SV=1	PIK3C3	94.2	1.227	0.0896
+164	A0A287AE43	Rho GTPase activating protein 26 OS=Sus scrofa OX=9823 GN=ARHGAP26 PE=1 SV=2	ARHGAP26	83.0	0.829	0.0906
+165	A0A5G2QYB0	"Microtubule associated monooxygenase, calponin and LIM domain containing 1 OS=Sus scrofa OX=9823 GN=MICAL1 PE=1 SV=1"	MICAL1	116.1	0.691	0.0910
+166	A0A480STU2	Phospholysine phosphohistidine inorganic pyrophosphate phosphatase OS=Sus scrofa OX=9823 GN=LHPP PE=1 SV=1	LHPP	29.2	1.612	0.0915
+167	K7GNE6	4F5 domain-containing protein OS=Sus scrofa OX=9823 GN=ZNF706 PE=4 SV=2	ZNF706	5.3	0.821	0.0921
+168	A0A5G2QE41	Uncharacterized protein OS=Sus scrofa OX=9823 PE=4 SV=1	--	66.2	0.670	0.0925
+169	K7GP53	Ubiquitin-like modifier-activating enzyme 7 OS=Sus scrofa OX=9823 GN=UBA7 PE=3 SV=2	UBA7	105.2	0.768	0.0926
+170	A0A287AZF3	SYF2 pre-mRNA splicing factor OS=Sus scrofa OX=9823 GN=SYF2 PE=1 SV=1	SYF2	29.1	1.302	0.0929
+171	F1RQI1	Uncharacterized protein OS=Sus scrofa OX=9823 GN=COX7A2 PE=4 SV=2	COX7A2	12.8	0.748	0.0940
+172	F1SS64	Myosin-2 OS=Sus scrofa OX=9823 GN=MYH2 PE=3 SV=2	MYH2	223.9	1.425	0.0942
+173	A0A5G2RAM8	Histone deacetylase 1 OS=Sus scrofa OX=9823 GN=HDAC1 PE=1 SV=1	HDAC1	54.3	0.790	0.0945
+174	I3LQD0	Uncharacterized protein OS=Sus scrofa OX=9823 GN=CALML4 PE=1 SV=1	CALML4	17.8	1.498	0.0952
+175	Q29036	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1 OS=Sus scrofa OX=9823 GN=DAD1 PE=3 SV=3	DAD1	12.5	0.793	0.0954
+176	A0A287ACK8	Erythrocyte membrane protein band 4.1 like 2 OS=Sus scrofa OX=9823 GN=EPB41L2 PE=1 SV=1	EPB41L2	115.6	1.548	0.0954
+177	K7GQ00	Fragile X mental retardation 1 OS=Sus scrofa OX=9823 GN=FMR1 PE=1 SV=2	FMR1	68.8	0.780	0.0955
+178	A0A5K1UZ28	Peptide YY OS=Sus scrofa OX=9823 GN=PYY PE=1 SV=1	PYY	19.4	2.087	0.0957
+179	A0A287AP37	ADP ribosylation factor related protein 1 OS=Sus scrofa OX=9823 GN=ARFRP1 PE=1 SV=1	ARFRP1	22.7	0.697	0.0962
+180	A0A287AMV5	Polyribonucleotide nucleotidyltransferase 1 OS=Sus scrofa OX=9823 GN=PNPT1 PE=1 SV=1	PNPT1	86.0	0.812	0.0962
+181	A0A287AZ33	Uncharacterized protein OS=Sus scrofa OX=9823 GN=WIZ PE=4 SV=2	WIZ	203.4	0.816	0.0977
+182	F1SI72	tRNA wybutosine-synthesizing protein 5 OS=Sus scrofa OX=9823 GN=TYW5 PE=4 SV=1	TYW5	36.6	1.311	0.0981
+183	A0A287B4R8	Acyl-CoA synthetase short chain family member 3 OS=Sus scrofa OX=9823 GN=ACSS3 PE=1 SV=1	ACSS3	71.9	1.435	0.0989
+184	F1RFD6	TBC1 domain family member 10A OS=Sus scrofa OX=9823 GN=TBC1D10A PE=1 SV=3	TBC1D10A	60.3	0.783	0.0991
+185	A0A287AM05	Translocase of inner mitochondrial membrane 44 OS=Sus scrofa OX=9823 GN=TIMM44 PE=1 SV=2	TIMM44	46.8	0.831	0.0253
+186	F2Z5F2	Uncharacterized protein OS=Sus scrofa OX=9823 GN=RAB10 PE=1 SV=1	RAB10	22.5	0.833	0.0993
+187	F1SKE2	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 OS=Sus scrofa OX=9823 GN=PLOD2 PE=1 SV=4"	PLOD2	87.5	0.830	0.0990
+188	A0A286ZLI2	Tyrosine-protein kinase OS=Sus scrofa OX=9823 GN=JAK1 PE=1 SV=1	JAK1	133.0	0.832	0.0507

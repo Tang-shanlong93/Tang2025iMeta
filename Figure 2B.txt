@@ -1,0 +1,56 @@
+Fig.2B Growth performance-Body weight (kg)				
+	D0	D7	D17	
+CON	5.67	6.63	7.89	
+CON	6.50	7.90	11.04	
+CON	5.27	7.24	9.18	
+CON	6.29	7.71	8.74	
+CON	6.76	8.19	9.88	
+CON	6.84	8.67	11.22	
+CON	5.55	6.99	8.75	
+CON	6.26	7.01	8.77	
+CON	5.71	7.50	8.77	
+CON	5.93	7.49	8.89	
+CON	6.68	7.17	8.86	
+CON	6.91	8.49	9.68	
+CON	5.93	6.44	7.65	
+CON	6.32	8.64	11.32	
+CON	5.76	6.74	8.62	
+CON	6.17	7.04	8.75	
+CON	6.71	6.87	7.88	
+CON	6.79	8.39	9.19	
+E.coli	5.70	7.27	8.32	
+E.coli	6.16	7.83	8.43	
+E.coli	5.85	7.75	8.88	
+E.coli	6.02	7.48	7.93	
+E.coli	6.54	7.90	8.83	
+E.coli	7.04	8.70		
+E.coli	6.00	7.28	7.81	
+E.coli	6.17	7.07	7.49	
+E.coli	4.98	5.67	6.32	
+E.coli	6.21	7.89	8.90	
+E.coli	6.53	7.93	8.85	
+E.coli	7.10	8.06	8.74	
+E.coli	6.01	6.87	7.21	
+E.coli	6.05	8.07	8.84	
+E.coli	5.28	6.56	6.93	
+E.coli	6.12	7.54	7.99	
+E.coli	6.78	8.51		
+E.coli	6.96	8.41		
+E.coli+L.reuteri	5.97	7.41	9.36	
+E.coli+L.reuteri	6.02	5.38		
+E.coli+L.reuteri	5.66	6.27		
+E.coli+L.reuteri	6.07	6.79		
+E.coli+L.reuteri	6.63	7.34	8.51	
+E.coli+L.reuteri	6.84	7.82	8.83	
+E.coli+L.reuteri	5.51	7.11	8.29	
+E.coli+L.reuteri	6.35	8.02	9.29	
+E.coli+L.reuteri	5.37	6.71	7.88	
+E.coli+L.reuteri	6.26	6.81	7.61	
+E.coli+L.reuteri	6.55	8.46	9.52	
+E.coli+L.reuteri	7.06	8.29	9.48	
+E.coli+L.reuteri	5.85	8.13	7.82	
+E.coli+L.reuteri	6.13	7.51	9.15	
+E.coli+L.reuteri	5.44	6.97	8.48	
+E.coli+L.reuteri	6.28	9.53	11.21	
+E.coli+L.reuteri	6.44	8.13	9.59	
+E.coli+L.reuteri	6.87	7.65	9.14	

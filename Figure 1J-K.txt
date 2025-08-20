@@ -1,0 +1,9 @@
+Fig. 1J L. reuteri abundance in jejunal mucosa													
+		CON	CON	CON	CON	CON	CON	XOS	XOS	XOS	XOS	XOS	XOS
+	s__Lactobacillus_reuteri	139	159	38	94	105	69	316	1283	1344	1475	87	8338
+													
+													
+													
+Fig. 1K L. reuteri abundance in jejunal lumen													
+		CON	CON	CON	CON	CON	CON	XOS	XOS	XOS	XOS	XOS	XOS
+	s__Lactobacillus_reuteri	293	741	597	1044	406	1096	2732	643	1856	1811	965	1152
